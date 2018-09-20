@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Is Waiting to List in the Spring Your Best Option?
-date: 2018-09-20 15:46:12
+date: 2018-09-20 15:46:00
 tags:
+  - Home Seller Tips
 excerpt: Should you wait to list until the spring? Maybe not.
 enclosure:
 pullquote: >-
@@ -28,7 +29,7 @@ If your home is already on the market, you should keep it listed. Taking it off 
 
 {% include pullquote.html %}
 
-Over the last couple of years I’ve seen a trend of people coming onto the market in the spring. By putting your home on the market then, you could run into too much inventory and be stuck on the market into June, July, or even August. Then,&nbsp;**you may end up doing a price reduction.**
+Over the last couple of years I’ve seen a trend of people coming onto the market in the spring. By putting your home on the market then, you could run into too much inventory and be stuck on the market into June, July, or even August. Then, **you may end up doing a price reduction.**
 
 Instead of doing this, you should list early and expect to remain on the market for a longer time frame. This way you won’t end up in July worrying about if you can sell before school starts.
 
