@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Blind Yourself to All the Opportunities in Our Market
-date: 2018-09-20 15:23:58
+date: 2018-09-20 15:23:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 'https://youtu.be/WdE_q440y5c'
 ---
 
 {% include youtube.html %}
