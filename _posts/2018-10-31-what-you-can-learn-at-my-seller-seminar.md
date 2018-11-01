@@ -39,7 +39,7 @@ The second clip explains **how your home’s appraised value influences your sal
 
 Your home’s appraised value can be either higher or lower than its market value, but the appraised value is the number the buyer will have to meet to buy the house. If the buyer is in the middle of getting a mortgage but your house doesn’t appraise at its market value, one of three things will happen: You’ll have to reduce the home’s price to meet the appraised value, the buyer will have to pay more to cover the difference, or you’ll have to put the home back on the market.&nbsp;
 
-To register for this seminar and get all the details about this great event, **[click here.](https://www.eventbrite.com/e/home-selling-seminar-by-kati-spaniak-tickets-51023674183){: target="_blank"}**
+To register for this seminar and get all the details about this great event, <u><strong><a target="_blank" href="https://www.spaniakteam.com/seller-seminar/">click here.</a></strong></u>
 
 If you can’t make it, just shoot me an email and I’d be glad to send you the full powerpoint presentation. Or, I can always come to your house and give you a one-on-one presentation.&nbsp;
 
