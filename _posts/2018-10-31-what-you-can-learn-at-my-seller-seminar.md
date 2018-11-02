@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   You’re invited to attend my upcoming seller seminar on November 12. There,
   you’ll learn what you need to do to sell your home quickly and for top dollar.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kati+Spaniak/Chicago+North+Shore+Real+Estate+Agent-+Youre+Invited+to+My+Next+Home+Selling+Seminar.mp4
 pullquote: >-
   The first four weeks your home is on the market is the time period it will see
   the most activity.
