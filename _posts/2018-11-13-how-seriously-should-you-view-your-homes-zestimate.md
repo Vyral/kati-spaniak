@@ -21,7 +21,7 @@ What is a Zestimate? As a home seller, is it something you need to put a lot of 
 
 First, a **Zestimate is Zillow’s formula for calculating your home’s value.** Zillow doesn’t reveal exactly how the formula works, but we do know that it’s based on tax records, comparable neighborhood home sales, homes that are active on the market, and other similar factors.&nbsp;
 
-Is your house actually worth what a Zestimate says it’s worth, though? No--**it’s worth whatever a buyer is willing to pay for it.** A Zestimate is a good starting point in understanding your home’s value, but buyers don’t always look at a home’s Zestimate when looking at the home itself, and they’re generally educated enough to know to take a home’s Zestimate with a grain of salt.
+Is your house actually worth what a Zestimate says it’s worth, though? No—**it’s worth whatever a buyer is willing to pay for it.** A Zestimate is a good starting point in understanding your home’s value, but buyers don’t always look at a home’s Zestimate when looking at the home itself, and they’re generally educated enough to know to take a home’s Zestimate with a grain of salt.
 
 {% include pullquote.html %}
 
