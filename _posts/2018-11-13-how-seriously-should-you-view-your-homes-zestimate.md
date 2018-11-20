@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: 'As a home seller, your home’s Zestimate isn’t that significant. Here’s why.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kati+Spaniak/Chicago+North+Shore+Real+Estate+Agent-+How+Important+Are+Zillows+Zestimates.mp4
 pullquote: A home’s Zestimate really isn’t that significant.
 enclosure_type: video/mp4
 enclosure_time:
