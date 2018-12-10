@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Roberts Heating and Air Serve Our Community?
-date: 2018-12-10 16:04:59
+date: 2018-12-10 16:04:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,16 +11,16 @@ enclosure:
 pullquote: Glenn Roberts founded Roberts Heating and Air in 1979.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-closer-look-at-roberts-heating-and-air-youtube.jpg
 youtube_code: 'https://fccdl.in/tDb87Okhok'
 ---
 
 {% include youtube.html %}
 
-Today I’m excited to be joined by Keith Miller of Roberts Heating and Air in Northbrook to talk about his life, his career, and his business.&nbsp;
+Today I’m excited to be joined by Keith Miller of Roberts Heating and Air in Northbrook to talk about his life, his career, and his business. 
 
-**Roberts Heating and Air was started by Glenn Roberts in 1979.** In 1983, he asked Keith to join him and in 1990 Keith became a partner when they moved into their first shop. Early on, they did mostly residential service work and a bit of residential construction work. These days, they still do residential work, in addition to commercial work and retrofit replacement. Pretty much everything that has to do with heating and air conditioning.&nbsp;
+**Roberts Heating and Air was started by Glenn Roberts in 1979.** In 1983, he asked Keith to join him and in 1990 Keith became a partner when they moved into their first shop. Early on, they did mostly residential service work and a bit of residential construction work. These days, they still do residential work, in addition to commercial work and retrofit replacement. Pretty much everything that has to do with heating and air conditioning. 
 
 **They’re currently located at 1847 Raymond Dr. in Northbrook, where Keith and Glenn both live.** Their team consists of about 20 members, including those who assist with daily office work, customer service requests, and field employees like installers and service technicians.
 
