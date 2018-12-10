@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-closer-look-at-roberts-heating-and-air-youtube.jpg
-youtube_code: 'https://fccdl.in/tDb87Okhok'
+youtube_code: 'https://youtu.be/9XUw9sSc9oQ'
 ---
 
 {% include youtube.html %}
