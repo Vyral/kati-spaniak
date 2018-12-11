@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Keith Miller has been with Roberts Heating and Air since 1983. I recently had
   a great conversation with him about his career and the journey he has taken.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kati+Spaniak/Chicago+North+Shore+Real+Estate+Agent-+Roberts+Heating+and+Air.mp4
 pullquote: Glenn Roberts founded Roberts Heating and Air in 1979.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: 'https://youtu.be/9XUw9sSc9oQ'
 
 {% include youtube.html %}
 
-Today I’m excited to be joined by Keith Miller of Roberts Heating and Air in Northbrook to talk about his life, his career, and his business.&nbsp;
+Today I’m excited to be joined by Keith Miller of Roberts Heating and Air in Northbrook to talk about his life, his career, and his business. 
 
 **Roberts Heating and Air was started by Glenn Roberts in 1979.** In 1983, he asked Keith to join him and in 1990, Keith became a partner when they moved into their first shop. Early on, they did mostly residential service work and a bit of residential construction work. These days, they still do residential work, but have also added commercial work, retrofit replacement, and pretty much everything that has to do with heating and air conditioning.
 
@@ -39,5 +40,3 @@ If you have heating and air needs that you need assistance with or if you have a
 If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you soon.
 
 [![](/uploads/roberts-heating-and-cooling-png.png)](https://robertsheating.com/specials){: target="_blank"}
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
