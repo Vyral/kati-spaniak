@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Real Reason Everyone Is Moving Away From Illinois
-date: 2019-01-18 20:52:47
+date: 2019-01-18 20:52:00
 tags:
   - Real Estate
   - Market Update
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-illinois-population-is-shrinking-youtube.jpg
-youtube_code: 'https://youtu.be/hIRdq9JjUYw'
+youtube_code: 'https://youtu.be/V0Mtg4X_jPs'
 ---
 
 {% include youtube.html %}
 
-If you’ve been paying attention to our market, you might have noticed an interesting trend: An increasing number of people are moving out of our state. Why is this happening? The reason is simple, and we’ll get to the bottom of it in today’s message.&nbsp;
+If you’ve been paying attention to our market, you might have noticed an interesting trend: An increasing number of people are moving out of our state. Why is this happening? The reason is simple, and we’ll get to the bottom of it in today’s message. 
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
 
 0:51 - Real data on the number of residents who have left Illinois in recent years
 
@@ -37,4 +37,4 @@ If you’ve been paying attention to our market, you might have noticed an inter
 
 7:45 - A few closing words
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
