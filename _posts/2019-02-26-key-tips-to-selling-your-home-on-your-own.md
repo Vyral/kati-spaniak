@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-how-do-you-sell-your-home-on-your-own-youtube.jpg
-youtube_code: 'https://youtu.be/BWhtQ0ce-RM'
+youtube_code: 'https://youtu.be/_gcWCHV7pm0'
 ---
 
 {% include youtube.html %}
