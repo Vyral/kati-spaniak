@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There’s a lot that goes into selling a home, but if you’re going to do it on
   your own, here are the key steps you need to take.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kati+Spaniak/Chicago+North+Shore+Real+Estate+Agent-+How+Do+You+Sell+Your+Home+on+Your+Own_.mp4
 pullquote: >-
   There are a lot of steps involved in selling a home, and you could be risking
   a lot of money if you don’t do it the right way.
