@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can A Seller Tell a Good Offer From One That Isn’t?
-date: 2019-05-07 19:21:50
+date: 2019-05-07 19:21:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: CVoiFPbCevc
 
 Since going on the market, your home has been on the receiving end of multiple offers. How will you know which offer to take in this scenario? A better question might even be: **How can I discern a strong offer from those that aren’t?**&nbsp;
 
-Let’s say you’ve set your price at $200,000 and a buyer comes in offering $225,000. At face value, this seems like a strong offer that you shouldn’t pass up. **The reality is, buyers can sometimes let their emotions get in the way of sound judgment;** they might throw out an offer and not realize that they’re probably overpaying until you’ve gone under contract. Consequently, they decide to withdraw their offer. &nbsp;
+Let’s say you’ve set your price at $200,000 and a buyer comes in offering $225,000. At face value, this seems like a strong offer that you shouldn’t pass up. **The reality is that buyers can sometimes let their emotions get in the way of sound judgment;** they might throw out an offer and not realize that they’re probably overpaying until you’ve gone under contract. Consequently, they decide to withdraw their offer. &nbsp;
 
 By this point, you may have already made the mistake of accepting an offer like this with a few different buyers. Really, the first offer isn’t always the best offer, and it’s not always about the highest bidder. **The best offer, then, is the one that’s actually going to close. &nbsp;**
 
