@@ -23,7 +23,7 @@ Since going on the market, your home has been on the receiving end of multiple o
 
 Let’s say you’ve set your price at $200,000 and a buyer comes in offering $225,000. At face value, this seems like a strong offer that you shouldn’t pass up. **The reality is that buyers can sometimes let their emotions get in the way of sound judgment;** they might throw out an offer and not realize that they’re probably overpaying until you’ve gone under contract. Consequently, they decide to withdraw their offer. &nbsp;
 
-By this point, you may have already made the mistake of accepting an offer like this with a few different buyers. Really, the first offer isn’t always the best offer, and it’s not always about the highest bidder. **The best offer, then, is the one that’s actually going to close. &nbsp;**
+By this point, you may have already made the mistake of accepting an offer like this with a few different buyers. Really, the highest priced offer isn’t always the best offer, and it’s not always about the highest bidder. **The best offer, then, is the one that’s actually going to close. &nbsp;**
 
 This is where your agent comes in: They should be able to pick up on clues during the showings, the offer process, negotiations, and inspection. **A professional, experienced agent will be adept at reading the buyer.**
 
