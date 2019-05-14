@@ -29,7 +29,7 @@ This is where your agent comes in: They should be able to pick up on clues durin
 
 {% include pullquote.html %}
 
-Now, if the offer price is too high, it probably won’t appraise, which means the buyer will be able to obtain a mortgage. One of three things will happen at that point: They’ll have to come up with additional money, you’ll have to go lower in price (which usually happens), or you’ll have to reenter the market; all three of these options are less than ideal.&nbsp;
+Now, if the offer price is too high, it probably won’t appraise, which means the buyer will not be able to obtain a mortgage. One of three things will happen at that point: They’ll have to come up with additional money, you’ll have to go lower in price (which usually happens), or you’ll have to reenter the market; all three of these options are less than ideal.&nbsp;
 
 **A cash offer way above asking price, on the other hand, can be good because you won’t need to bring in an appraiser;** you’ll want to know if this is in the contract or not.&nbsp;
 
