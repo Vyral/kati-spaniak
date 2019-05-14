@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/good-offer-youtube.jpg
-youtube_code: CVoiFPbCevc
+youtube_code: q7EKcE6TYs0
 ---
 
 {% include youtube.html %}
