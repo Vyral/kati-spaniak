@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do Homes That Aren’t Updated Fail to Sell?
-date: 2019-05-24 16:28:48
+date: 2019-05-24 16:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/updated-youtube.jpg
-youtube_code: yVwDZhMReRs
+youtube_code: jup3icitlZA
 ---
 
 {% include youtube.html %}
