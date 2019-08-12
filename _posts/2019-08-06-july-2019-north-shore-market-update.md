@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July 2019 North Shore Market Update
-date: 2019-08-06 18:57:15
+date: 2019-08-06 18:57:00
 tags:
   - Market Update
 excerpt: How has our North Shore market changed over the last decade? Let’s discuss.
@@ -19,7 +19,7 @@ youtube_code: zskN2_2C8-E
 
 We’re more than halfway through 2019, which means now is the perfect time for another update on our North Shore real estate market. We’ll cover all the relevant trends buyers, sellers, and homeowners in our area should know.
 
-**For a more in-depth look at these trends, be sure to follow along in today’s video or check out our interactive market report here.&nbsp;**
+**For a more in-depth look at these trends, be sure to follow along in today’s video or check out our market reports below.&nbsp;**
 
 Let’s start by looking at median sales prices over the past decade. In 2009, when our market was just beginning to decline, the median sales price in our North Shore market was $575,000. Now, the median sales price in our area is $525,000. The average sales price for July 2019, meanwhile, was $631,835.&nbsp;
 
@@ -38,3 +38,41 @@ Homes have also become more affordable over that period. Between March of 2009 a
 And **given the high number of new listings hitting our market, with 9,164 new properties going live this July, home prices are likely to drop even further.&nbsp;**
 
 Of course, all of the figures we’ve discussed today only give a general overview of our North Shore real estate market. If you have any other questions, would like more information, or would like to discuss how your specific neighborhood has developed over time, please feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+**North Shore Stats:**
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2oz-67U](https://mred.stats.10kresearch.com/infoserv/s-v1/R2oz-67U){: target="_blank"}<br>Median Sales Price
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2oL-4Jp](https://mred.stats.10kresearch.com/infoserv/s-v1/R2oL-4Jp){: target="_blank"}<br>Average Sales Price
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2oM-9p](https://mred.stats.10kresearch.com/infoserv/s-v1/R2oM-9p){: target="_blank"}<br>Homes for Sale
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2oW-GAM](https://mred.stats.10kresearch.com/infoserv/s-v1/R2oW-GAM){: target="_blank"}<br>New Listings
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2op-xqd](https://mred.stats.10kresearch.com/infoserv/s-v1/R2op-xqd){: target="_blank"}<br>Average Market Time
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2ov-5uX](https://mred.stats.10kresearch.com/infoserv/s-v1/R2ov-5uX){: target="_blank"}<br>Under Contract
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2o9-aJP](https://mred.stats.10kresearch.com/infoserv/s-v1/R2o9-aJP){: target="_blank"}<br>% Last List (Closed) Average
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2oc-889](https://mred.stats.10kresearch.com/infoserv/s-v1/R2oc-889){: target="_blank"}<br>Closed Sales
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2oG-vm5](https://mred.stats.10kresearch.com/infoserv/s-v1/R2oG-vm5){: target="_blank"}<br>% Original List (Closed)
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2IB-VHv](https://mred.stats.10kresearch.com/infoserv/s-v1/R2IB-VHv){: target="_blank"}<br>Median Price Per Square Foot
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2Id-zLq](https://mred.stats.10kresearch.com/infoserv/s-v1/R2Id-zLq){: target="_blank"}<br>Average Price Per Square Foot
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2I2-bC5](https://mred.stats.10kresearch.com/infoserv/s-v1/R2I2-bC5){: target="_blank"}<br>Contract to Close Average
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2I7-hdq](https://mred.stats.10kresearch.com/infoserv/s-v1/R2I7-hdq){: target="_blank"}<br>Dollar Volume
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2IZ-EHc](https://mred.stats.10kresearch.com/infoserv/s-v1/R2IZ-EHc){: target="_blank"}<br>Listing to Contract Average
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2IY-OZN](https://mred.stats.10kresearch.com/infoserv/s-v1/R2IY-OZN){: target="_blank"}<br>Shows to Contract Median
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2IF-aFg](https://mred.stats.10kresearch.com/infoserv/s-v1/R2IF-aFg){: target="_blank"}<br>Shows to Contract Average
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2IR-F00](https://mred.stats.10kresearch.com/infoserv/s-v1/R2IR-F00){: target="_blank"}<br>Months Supply
+
+[https://mred.stats.10kresearch.com/infoserv/s-v1/R2Iw-aZx](https://mred.stats.10kresearch.com/infoserv/s-v1/R2Iw-aZx){: target="_blank"}<br>Shows Per Listing
