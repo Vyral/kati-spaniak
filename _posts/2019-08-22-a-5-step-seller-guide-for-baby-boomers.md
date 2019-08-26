@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/baby-boomer-youtube-1.jpg
-youtube_code: x55gXZCA9Ys
+youtube_code: kLj4wvS41Lk
 ---
 
 {% include youtube.html %}
