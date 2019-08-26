@@ -29,7 +29,7 @@ For that reason, think about how your children operate and their current lifesty
 
 {% include pullquote.html %}
 
-Today’s buyers are extremely savvy and in-tune with current conditions. They’re more active than ever before; perusing Zillow, Trulia, and Realtor sites like mine; and communicating via social media. Because of that, they won’t be easily fooled in believing that your home is worth considerably more than your neighbor’s, and the increased sharing of information has a lot to do with that.&nbsp;
+Today’s buyers are extremely savvy and in-tune with current conditions. They’re more active than ever before—perusing Zillow, Trulia, and Realtor sites like mine—and communicating via social media. Because of that, they won’t be easily fooled into believing that your home is worth considerably more than your neighbor’s, and the increased sharing of information has a lot to do with that.&nbsp;
 
 To get right to the point, **buyers are looking at your listing’s pictures online and moving on if they don’t like what they see.** In other words, your pictures must be good. But beyond that, your product must be good as well.&nbsp;
 
