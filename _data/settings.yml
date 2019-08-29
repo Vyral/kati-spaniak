@@ -25,7 +25,7 @@ client:
   market: Chicago
   brand: The Spaniak Team
   brokerage: Brokered by eXp Realty
-  address:
+  address: '1544 Shermer, Northbrook, IL, 60062'
   phone: 847-379-8813
   phone_type:
   phone2:
