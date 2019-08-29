@@ -21,7 +21,7 @@ youtube_code: kLj4wvS41Lk
 
 {% include youtube.html %}
 
-**[→ Find out what your house is worth now](https://www.spaniakteam.com/home-valuation/){: target="_blank"}**<br>[→&nbsp;](mailto:info@spaniakteam.com){: target="_blank"}**[Send me an email at info@spaniakteam.com to have us set up a market activity report for homes in your direct neighborhood or school district.](mailto:info@spaniakteam.com){: target="_blank"}**
+**[→ Find out what your house is worth now](https://www.spaniakteam.com/home-valuation/){: target="_blank"}**<br><br>[→&nbsp;](mailto:info@spaniakteam.com){: target="_blank"}**[Send me an email at info@spaniakteam.com to have us set up a market activity report for homes in your direct neighborhood or school district.](mailto:info@spaniakteam.com){: target="_blank"}**
 
 In my adventures in real estate, I’ve seen a lot of baby boomers—especially on the North Shore—who have been in their home for 20, 30, or as many as 40 years. Obviously, that means they also haven’t bought a home since then, and given that the market is rarely static, everything about it has changed: what buyers are looking for in a home and how they do it, in particular.&nbsp;
 
