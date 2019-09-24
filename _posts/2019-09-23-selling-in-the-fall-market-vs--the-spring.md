@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selling in the Fall Market vs. the Spring
-date: 2019-09-23 18:49:29
+date: 2019-09-23 18:49:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -25,7 +25,7 @@ All the time, people lament to me that because they missed the spring market, th
 
 **That is totally wrong**, and today I’ll explain why.
 
-People buy and sell homes all year long; it’s not like nobody buys or sells in the fall and winter\! Mind you, the market is seasonal and tends to slow down, so while there aren’t as many people look for houses, there’s also not as much inventory—that means less competition for you.
+People buy and sell homes all year long; it’s not like nobody buys or sells in the fall and winter\! Mind you, the market is seasonal and tends to slow down, so while there aren’t as many people looking for houses, there’s also not as much inventory—that means less competition for you.
 
 When you have one of the only two Colonial homes in your school district, for example, and a buyer has to move soon, that means yours is one of the two homes that that buyer will choose from.
 
@@ -35,7 +35,7 @@ If you want to sell your house, you have to list it. Don’t try to be super str
 
 Last year, I had five homes that sold in just the first week of January, and they had been on the market since August. So if you have a home on the market and you’re thinking of taking it off the market, don’t. Leave it on. If you don’t want to do showings during the holidays, then you don’t have to. Just cancel the showing; your agent can still collect the information from the buyer’s agent who tried to schedule the listing and then schedule a follow-up when your time is freer. If your house is totally off the market, then you won’t get any showings at all and you won’t sell your home.
 
-You might have decided that the spring market is best for you because, for example, you don’t plan to close until June or July, so you’re just going to wait until after the Superbowl. Keep this in mind: it’s cold after the Superbowl\! I don’t really abide by that strategy because you’ll still have to compete with all the other fresh inventory. Plus, **if you list your home in March or April and you either miss the first rush or you’ve overpriced your home, you’ll only ride the market down until you have to start doing price reductions.**
+You might have decided that the spring market is best for you because, for example, you don’t plan to close until June or July, so you’re just going to wait until after the Superbowl. Keep this in mind: It’s cold after the Superbowl\! I don’t really abide by that strategy because you’ll still have to compete with all the other fresh inventory. Plus, **if you list your home in March or April and you either miss the first rush or you’ve overpriced your home, you’ll only ride the market down until you have to start doing price reductions.**
 
 That’s why I prefer to list my houses earlier in the year, rather than later. If you’re looking for a May, June, or July closing, I strongly recommend having your home on the market by the second week of January. In case you end up selling your home before your initial plan, I’ll make sure to ask if you have temporary housing or someplace to go before you list—if you don’t, that would be a situation where it might be better to list a bit later in the year. However, the price may have to be a bit lower if you want an offer right away.
 
