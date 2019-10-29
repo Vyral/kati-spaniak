@@ -24,12 +24,12 @@ If you’re thinking of selling your house, you probably have questions about wh
 
 * When is the best time to list your house?
 * What do you need to do to get your house ready to sell?
-* What projects you should invest your money in?
+* What projects should you invest your money in?
 * How do you buy and sell a home at the same time?
 * If you can’t hold two houses at once, what can you do?
 * What is a bridge loan?
 * How can you get a mortgage if you’ve already retired and don’t have any income?
-* How do you sell your house as an FSBO?
+* How do you sell your house as a FSBO?
 * How do you find and engage with a real estate attorney?
 * Should you get a home inspection before you put your home on the market?
 * How do you find the right real estate agent?
