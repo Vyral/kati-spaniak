@@ -34,7 +34,7 @@ If you’re thinking of selling your house, you probably have questions about wh
 * Should you get a home inspection before you put your home on the market?
 * How do you find the right real estate agent?
 
-I promise this seminar will be incredibly informational to home sellers. Last year, one couple who attended ended up listing their home with me in the spring—they sold their house before it even went on the MLS\! Doug and Nancy gave me a fantastic testimonial, which you can look at here.
+I promise this seminar will be incredibly informational to home sellers. Last year, one couple who attended ended up listing their home with me in the spring—they sold their house before it even went on the MLS\! Doug and Nancy gave me a fantastic testimonial, which you can look at [here.](https://www.google.com/search?q=spaniak+team&amp;oq=spaniak+&amp;aqs=chrome.0.0j69i60l2j69i61j69i60j69i61.4446j0j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x880fc7b178743b3d:0x5bd173c68442e476,1,,,){: target="_blank"}
 
 I hope to see you there\! If you can’t make it, don’t worry—just give me a call or send me an email and we’ll be sure to get you the information you need as well as an invitation to the next seminar we host.
 
