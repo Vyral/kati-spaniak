@@ -39,3 +39,7 @@ I promise this seminar will be incredibly informational to home sellers. Last ye
 I hope to see you there\! If you can’t make it, don’t worry—just give me a call or send me an email and we’ll be sure to get you the information you need as well as an invitation to the next seminar we host.
 
 In the meantime, if you have any questions about real estate, feel free to reach out. We’re here to be your real estate resource.
+
+&nbsp;
+
+**[Click here for more information on the event\!](https://www.eventbrite.com/e/what-to-do-to-get-your-house-ready-to-sell-tickets-76461804315?aff=ebdssbdestsearch){: target="_blank"}**
