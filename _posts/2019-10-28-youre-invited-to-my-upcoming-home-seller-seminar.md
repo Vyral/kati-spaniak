@@ -20,7 +20,7 @@ youtube_code: mtmLnTuh6GM
 
 If you’re thinking of selling your house, you probably have questions about what you can do to prepare it for the market. Well, you’re in luck, because we’re hosting a fantastic seller seminar soon, and you’re invited\!
 
-**Join us on November 16 in downtown Northbrooke at 9:30 a.m. to learn the answers to the following questions and more:**
+**Join us on November 16 in downtown Northbrook at 9:30 a.m. to learn the answers to the following questions and more:**
 
 * When is the best time to list your house?
 * What do you need to do to get your house ready to sell?
