@@ -7,7 +7,7 @@ excerpt: >-
   What can you do to get your home ready for the market? Find out at my upcoming
   home seller seminar!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kati+Spaniak/Youre+Invited+to+My+Upcoming+Home+Seller+Seminar.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kati+Spaniak/Youre+Invited+to+My+Upcoming+Home+Seller+Seminar+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
