@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/seminar-youtube-1.jpg
-youtube_code: mtmLnTuh6GM
+youtube_code: JyzgHchahAg
 ---
 
 {% include youtube.html %}
