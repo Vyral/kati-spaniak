@@ -34,7 +34,15 @@ If you’re thinking of selling your house, you probably have questions about wh
 * Should you get a home inspection before you put your home on the market?
 * How do you find the right real estate agent?
 
-I promise this seminar will be incredibly informational to home sellers. Last year, one couple who attended ended up listing their home with me in the spring—they sold their house before it even went on the MLS\! Doug and Nancy gave me a fantastic testimonial, which you can look at [here.](https://www.google.com/search?q=spaniak+team&amp;oq=spaniak+&amp;aqs=chrome.0.0j69i60l2j69i61j69i60j69i61.4446j0j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x880fc7b178743b3d:0x5bd173c68442e476,1,,,){: target="_blank"}
+I promise this seminar will be incredibly informational to home sellers. Last year, one couple who attended ended up listing their home with me in the spring—they sold their house before it even went on the MLS\! Doug and Nancy gave me a fantastic testimonial, which you can look at here.
+
+My wife and I were very impressed with Kati Spaniak and her team (about 5-7 people) at every step of the process. &nbsp;They were great to work with and we always felt informed and confident they were going to deliver the best result. &nbsp;You will be impressed by Kati's knowledge of the local market.
+
+*"Here is a little about our experience. &nbsp;Kati does not try to 'sweet talk' you to get your listing. &nbsp;Her feedback will be very well grounded and spot on. &nbsp;When we first invited her to the house she walked through and gave us very honest feedback on condition, marketability and the current market. &nbsp;I told her we would be willing to spend $15,000+ if needed to remodel, paint, etc. for selling (and we had specific suggestions). &nbsp;She said not needed to most and that we would not get our money back. &nbsp;In the end, we did some painting and we were prepared to stage the first floor. &nbsp;While on the 'private market' (which you should ask about) starting late March, we had 7 showings (which she curated and prepped the other realtor) and 2 offers. &nbsp;Start to finish was just three months (late March to closing at the end of June). &nbsp;Very unusual and not necessarily what others will experience.&nbsp;*
+
+*My recommendation- invite Kati to your house to get acquainted and to get her assessment of the market and what she thinks you could sell for. &nbsp;I am confident her recommendations will be measured and spot-on.*
+
+*The most important thing I can say in closing is that by following Kati's advice we netted more money and faster than if we have tried to control the process."*
 
 I hope to see you there\! If you can’t make it, don’t worry—just give me a call or send me an email and we’ll be sure to get you the information you need as well as an invitation to the next seminar we host.
 
