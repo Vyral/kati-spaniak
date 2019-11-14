@@ -20,7 +20,7 @@ youtube_code: UP4n-HYwbAY
 
 {% include youtube.html %}
 
-Today I am going to answer the question: Why should you not hire me as your real estate agent?&nbsp;
+Today I am going to answer the question, "Why should you not hire me as your real estate agent?"
 
 Truly, it’s if you don’t want the genuine truth. I am honest with my clients. **I’m pretty blunt and frank.** I’m going to present it to you the way that I see it. I try to make it a bit softer, but I don’t want my clients to be in a position where a year or two after they’ve listed their house, they’re still on the market. I will be 100% honest with you even if you don’t like the answer.
 
