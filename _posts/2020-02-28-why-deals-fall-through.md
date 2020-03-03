@@ -23,6 +23,6 @@ Today we’re examining why deals fall through in our current market. It’s so 
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
-0:58 — Keep your attorney review period as short as possible&nbsp;<br>2:12 — Buyers backing out after making an offer, or requesting too much for a credit&nbsp;<br>3:25 — Buyers and sellers getting emotional and losing perspective of the transaction&nbsp;<br>4:00 — How a contingent offer can give buyers an upperhand<br>5:13 — Advice to sellers going into attorney review/advice to buyers for requesting credits<br>6:24 — Wrapping things up&nbsp;
+0:58 — Keep your attorney review period as short as possible&nbsp;<br>2:12 — Buyers backing out after making an offer, or requesting too much for a credit&nbsp;<br>3:25 — Buyers and sellers getting emotional and losing perspective of the transaction&nbsp;<br>4:00 — How a contingent offer can give buyers an upper hand<br>5:13 — Advice to sellers going into attorney review/advice to buyers for requesting credits<br>6:24 — Wrapping things up&nbsp;
 
 If you have further questions about this or any other real estate topic, please feel free to call, email, or explore our website. We’re always having seminars on how to sell your home (check the email that led you here for a link to more information on the next one). These events are very casual—no pressure at all, just come with questions and we’ll be happy to help you.&nbsp;
