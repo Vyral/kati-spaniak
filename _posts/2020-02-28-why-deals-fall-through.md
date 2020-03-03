@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Deals Fall Through
-date: 2020-02-28 19:55:38
+date: 2020-02-28 19:55:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -25,4 +25,4 @@ Today we’re examining why deals fall through in our current market. It’s so 
 
 0:58 — Keep your attorney review period as short as possible&nbsp;<br>2:12 — Buyers backing out after making an offer, or requesting too much for a credit&nbsp;<br>3:25 — Buyers and sellers getting emotional and losing perspective of the transaction&nbsp;<br>4:00 — How a contingent offer can give buyers an upperhand<br>5:13 — Advice to sellers going into attorney review/advice to buyers for requesting credits<br>6:24 — Wrapping things up&nbsp;
 
-If you have further questions about this or any other real estate topic, please feel free to call, email, or explore our website. We’re always having seminars on how to sell your home (check this email for a link to more information on the next one). These events are very casual—no pressure at all, just come with questions and we’ll be happy to help you.&nbsp;
+If you have further questions about this or any other real estate topic, please feel free to call, email, or explore our website. We’re always having seminars on how to sell your home (check the email that led you here for a link to more information on the next one). These events are very casual—no pressure at all, just come with questions and we’ll be happy to help you.&nbsp;
