@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Houses Sell Fast in Our Current Market?
-date: 2020-04-03 18:01:54
+date: 2020-04-03 18:01:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -25,7 +25,7 @@ When buyers go online, they won’t like homes that don’t look ready to go. Th
 
 {% include pullquote.html %}
 
-**If you’re maybe a year or two out from selling, it's time for you to take care of that deferred maintenance now.** Your roof, windows, HVAC system, etc. should all be checked and in proper working order. Your house needs to be in good condition to sell in this market.
+**If you’re maybe a year or two out from selling, it's time for you to take care of that deferred maintenance now.** Your roof, windows, HVAC system, etc., should all be checked and in proper working order. Your house needs to be in good condition to sell in this market.
 
 A buyer I worked with recently found a home that was on the market and in great condition. They loved that the roof was new, the mechanicals were in good working order, and the kitchen was fresh and updated with appliances. **Everything in the house had been taken care of, so it was an easy sell.** There was nothing left in the house that needed to be “taken care of.” The only thing that the buyers needed to do was customize it to their liking. This home sold over list price, as will most homes that are in good condition right now.&nbsp; Homes that aren’t in good condition may not sell at all.
 
