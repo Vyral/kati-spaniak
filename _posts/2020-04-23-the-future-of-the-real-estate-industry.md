@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Future of the Real Estate Industry
-date: 2020-04-23 21:25:41
+date: 2020-04-23 21:25:00
 tags:
   - Market Update
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 7Eg4ZE5KXWk
 
 {% include youtube.html %}
 
-With COVID-19 affecting nearly every industry in this country, what will the future of real estate look like? I wanted to share my thoughts today after I’ve been making observations over the last month and observed how things have changed already.&nbsp;
+With COVID-19 affecting nearly every industry in this country, what will the future of real estate look like? I wanted to share my thoughts today after having observed many changes over the last month.
 
 **Here’s an outline of my discussion, with timestamps so that you can skip around to the section(s) that interest you most:**
 
