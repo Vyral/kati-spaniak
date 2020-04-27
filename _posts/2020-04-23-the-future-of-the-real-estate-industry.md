@@ -27,6 +27,4 @@ With COVID-19 affecting nearly every industry in this country, what will the fut
 
 **[Schedule an appointment with Kati](https://calendly.com/katispaniak){: target="_blank"}**<br><br>Free webinar with Kati:<br>**New Times & New Methods for Selling Your Home**<br>Create a game plan to get your house sold now or in the future for the most amount of money in the least amount of time.<br>Wednesday, 6 May 2020, 4:00 PM<br>Saturday, 9 May 2020, 10:00 AM<br>**[Register Here](https://event.webinarjam.com/register/5/7vnvquy){: target="_blank"}**
 
-&nbsp;
-
 If you have any questions for me at all, I’m here to answer them. There’s no cost and no obligation, I just truly want to advise you on the best route of action possible. Just give me a call or send me an email today. I look forward to hearing from you soon.
