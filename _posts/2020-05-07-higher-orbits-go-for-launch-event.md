@@ -22,4 +22,4 @@ I am giving away one scholarship🎖to a deserving student 9-12th grade to atten
 
 This is an incredible not-for-profit that gives kids the chance to send an experiment to the International Space Station. I love 🤩 Higher Orbits and its mission.
 
-Click below to fill out the form and for more information\!<br>\[LINK\]
+**[Click here to fill out the form and for more information\!](https://docs.google.com/forms/d/e/1FAIpQLSerg9-5k_ULVgS7fJQm7fTBRdgI9wgw7oGvFBFOknw3EYq5Xw/viewform){: target="_blank"}**
