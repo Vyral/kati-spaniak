@@ -37,6 +37,8 @@ CTAs:
   first_CTA_URL: 'https://www.spaniakteam.com/home-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.spaniakteam.com/results-gallery/?userID=all'
+  third_CTA_text: Register Now!
+  third_CTA_URL: https://www.spaniakteam.com/webinar/
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your Chicago Home Worth?
@@ -51,6 +53,12 @@ second_sidebar_CTA:
     CTA_text2: Search the entire MLS for your Chicago home.
     CTA_link_text2: Search the MLS
     CTA_url2: 'https://www.spaniakteam.com/results-gallery/?userID=all'
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title3: Free Seller Seminar
+    CTA_text3: 'New Times & New Methods for Selling Your Home: Create a game plan to get your house sold now or in the future for the most amount of money in the least amount of time.'
+    CTA_link_text3: Register Now!
+    CTA_url3: 'https://www.spaniakteam.com/webinar/'
 lender:
   show_section: false
   header_text: Preferred Lender
