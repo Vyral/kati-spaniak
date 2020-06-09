@@ -23,4 +23,4 @@ If you have any questions, don't hesitate to reach out to me. I'm happy to help\
 
 <u><strong>New Virtual Tour:</strong></u>
 
-<u><strong><a href="https://my.matterport.com/show/?m=VzXLmZPg3ae"><img src="/uploads/2-.png" width="100%" height="100%" /></a></strong></u>
+<u><strong><a href="https://my.matterport.com/show/?m=VzXLmZPg3ae" target="_blank"><img src="/uploads/2-.png" width="100%" height="100%" /></a></strong></u>
