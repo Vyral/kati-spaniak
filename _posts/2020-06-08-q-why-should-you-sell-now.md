@@ -19,8 +19,10 @@ youtube_code: gBETpOX-lrw
 
 We’re still trying to recover from the pandemic, and protests are happening all over the country. It seems like the world is in chaos. However, there are a few reasons why now is a great time to list your home for sale. Buyers are out looking for houses right now; they’re ready and anxious to move. Many sellers aren’t listing yet because they don’t want people walking through their homes amid the coronavirus, which means huge opportunities for those who do put their houses on the market now.
 
+Here's an **[article from Patch.com](https://patch.com/illinois/northbrook/lack-home-inventory-north-shore-it-true?){: target="_blank"}** on why now might be the best time to list your home for the most money.
+
 If you have any questions, don't hesitate to reach out to me. I'm happy to help\!
 
 <u style="text-align:center;"><strong>New Virtual Tour:</strong></u>
 
-<u><strong><a href="https://my.matterport.com/show/?m=VzXLmZPg3ae" target="_blank"><img src="/uploads/2-.png" width="100%" height="100%" /></a></strong></u>
+<u><strong><a target="_blank" href="https://my.matterport.com/show/?m=VzXLmZPg3ae"><img width="100%" height="100%" src="/uploads/2-.png" /></a></strong></u>
