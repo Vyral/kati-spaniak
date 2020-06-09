@@ -23,4 +23,4 @@ If you have any questions, don't hesitate to reach out to me. I'm happy to help\
 
 <u><strong>New Virtual Tour:</strong></u>
 
-<u><strong><img src="/uploads/2-.png" width="696" height="361" /></strong></u>
+<u><strong><img src="/uploads/2-.png" width="100%" height="100%" /></strong></u>
