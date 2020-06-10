@@ -23,4 +23,4 @@ We also wrote an **[article for Patch.com](https://patch.com/illinois/northbrook
 
 If you have any questions, don't hesitate to reach out to me. I'm happy to help\!
 
-<u style="text-align:center;"><strong>New Virtual Tour</strong></u><br>*1569 Suzann, Northbrook:*<br><u><strong><a target="_blank" href="https://my.matterport.com/show/?m=VzXLmZPg3ae"><img width="100%" height="100%" src="/uploads/2-.png" /></a></strong></u>Traditional elegance meets contemporary style in this pristine 2 story home situated in one of the best locations in Northbrook. You won't find better views than you'll get with this property, hands down\!
+<u style="text-align:center;"><strong>New Virtual Tour</strong></u><br>*1569 Suzann, Northbrook:*<br>Traditional elegance meets contemporary style in this pristine 2 story home situated in one of the best locations in Northbrook. You won't find better views than you'll get with this property, hands down\!<br><u><strong><a target="_blank" href="https://my.matterport.com/show/?m=VzXLmZPg3ae"><img width="100%" height="100%" src="/uploads/2-.png" /></a></strong></u>
