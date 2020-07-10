@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your July Market Update
-date: 2020-07-09 18:43:53
+date: 2020-07-09 18:43:00
 tags:
   - Market Update
 excerpt: Here’s what you need to know about our North Shore market.
@@ -27,7 +27,7 @@ Typically, most of my summer closings occur in June and July, and I don’t see 
 
 Looking for a house in this market has to be sort of like a part-time job. You must have a very good relationship with your agent, who should be scouring the private listings, talking to other agents in their network, and checking back in with potential sellers from last year. **Agents have to be resourceful for their buyers, and buyers have to be working with excellent agents.&nbsp;**
 
-Buyers need to start their search earlier rather than later. Make sure you’re seeing homes that are hitting the market and attending open houses (expect the routine safety precautions, of course).&nbsp;&nbsp;
+Buyers need to start their search sooner rather than later. Make sure you’re seeing homes that are hitting the market and attending open houses (expect the routine safety precautions, of course).&nbsp;&nbsp;
 
 If you’re thinking about selling, my advice is to go ahead and do what you need to do to get that property on the market. Don’t worry too much about getting it into pristine condition, but rather **reach out to your agent immediately and try to get into the private network** (i.e., the behind-the-scenes, agent-only side of the MLS). The benefit of going into the private network is that it’s centered around your time frame and price.&nbsp;
 
