@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/market-update-yt.jpg
+youtube_alternate_image: /uploads/2020-10-2.jpg
 youtube_code: 11Oq2OIxcSQ
 ---
 
