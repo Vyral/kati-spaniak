@@ -29,7 +29,7 @@ Around mid-August, the market slowed down drastically as people began to focus o
 
 {% include pullquote.html %}
 
-Now that we’ve hit September, the market has begun to tick back up a little. So what can we expect for the future?
+Throughout September, the market started to tick back up a little. So what can we expect for the future?
 
 My best guess is that **there are going to be a lot of people looking to move out of the city**, but buyers by and large are still looking for value, which means they won’t want to overpay. If you have a house that’s in great condition, I encourage you to list it. People often think that the fall and winter are bad times to list because the market isn’t as good or because folks don’t want to navigate finding a new school district while school is still in session. I always recommend that my clients keep their houses on the market during the winter because the low inventory means buyers won’t have many choices. In that way, your listing will draw a lot of eyes. If you’re thinking about moving sometime next year, you’ll want to start thinking about it sooner than later.
 
