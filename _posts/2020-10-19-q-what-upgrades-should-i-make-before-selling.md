@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: What Upgrades Should I Make Before Selling?'
-date: 2020-10-19 20:11:57
+date: 2020-10-19 20:11:00
 tags:
   - Home Seller Tips
 excerpt: Here are three ways to get your home ready without breaking the bank.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kati+Spaniak/Videos/2020/October/Q-+What+Upgrades+Should+I+Make+Before+Selling_.mp4
 pullquote: The worst thing you can do is spend too much on a kitchen or bathroom remodel.
 enclosure_type: video/mp4
 enclosure_time:
