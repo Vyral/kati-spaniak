@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/upgrades-yt.jpg
-youtube_code: B1OtptdBtys
+youtube_code: Sq_qjq5F0A4
 ---
 
 {% include youtube.html %}
