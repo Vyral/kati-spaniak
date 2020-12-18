@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are the 3 Biggest Mistakes a Buyer Can Make?'
-date: 2020-12-16 22:17:54
+date: 2020-12-16 22:17:00
 tags:
   - Home Buyer Tips
 excerpt: 'If you commit these mistakes, you’ll guarantee yourself a rough process.'
@@ -19,13 +19,13 @@ youtube_code: vez7wmDExyg
 
 {% include youtube.html %}
 
-Buying a home should be easy nowadays, right? Never before have buyers had so much access to real estate data from their hyperlocal area and tools for determining the value of a given home; they can be alerted via text the very moment a new home hits the market. Despite all this, finding a home can actually be a very frustrating project, especially in the low-inventory markets of today. Thankfully, if you simply avoid the following three buyer mistakes, you’ll automatically put yourself in a much better position and remove needless stress from the equation:&nbsp;
+Buying a home should be easy nowadays, right? Never before have buyers had so much access to real estate data from their hyperlocal area and tools for determining the value of a given home; they can be alerted via text the very moment a new home hits the market. Despite all this, finding a home can still be a very frustrating project, especially in the low-inventory markets of today. Thankfully, if you simply avoid the following three buyer mistakes, you’ll automatically put yourself in a much better position and remove needless stress from the equation:&nbsp;
 
-**1\. Not touring enough houses.** Don’t assume you’ll be able to find the perfect home just based on your internet searches; well in advance of your target moving date (perhaps even a year prior), you need to drive through neighborhoods and actually get into some houses. Whether or not you find the right home within those first few tours is beside the point; all that touring will give you a better feel for what’s out there and how different layouts or features strike you.&nbsp;
+**1\. Not touring enough houses.** Don’t assume you’ll be able to find the perfect home just based on your internet searches; well in advance of your target moving date (perhaps even a year prior), you need to drive through neighborhoods and get into some houses. Whether or not you find the right home within those first few tours is beside the point; all that touring will give you a better feel for what’s out there and how different layouts or features strike you.&nbsp;
 
 {% include pullquote.html %}
 
-**2\. Not hiring an agent.** I know what you’re thinking: “We’ll have all these homes lined up, and we’re just going to call the listing agent on the sign if we really like one. Why would we need someone’s help with this?” In truth, it’s really hard to find a house if you don’t have a relationship with a listing agent, or the ability to leverage someone else's relationship with one. When you enlist a buyer’s agent, the commission actually comes off the sale price of the house you eventually end up buying. So, while it’s technically true that the buyer is “paying” for the commission, there is no additional fee for retaining a buyer’s agent.&nbsp;
+**2\. Not hiring an agent.** I know what you’re thinking: “We’ll have all these homes lined up, and we’re just going to call the listing agent on the sign if we really like one. Why would we need someone’s help with this?” In truth, it’s really hard to find a house if you don’t have a relationship with a listing agent, or the ability to leverage someone else's relationship with one. When you enlist a buyer’s agent, the commission comes off the sale price of the house you eventually end up buying. So, while it’s technically true that the buyer is “paying” for the commission, there is no additional fee for retaining a buyer’s agent.&nbsp;
 
 Even so, why should you hire one? Well, it’s a jungle out there, and you need boots on the ground. There is very little inventory available right now, but agents actually have tons of “coming soon” and “off-market” homes in the private network. Commonly, agents are able to match properties in this private network with buyer clients before their listing goes public, which is a huge advantage.&nbsp;
 
