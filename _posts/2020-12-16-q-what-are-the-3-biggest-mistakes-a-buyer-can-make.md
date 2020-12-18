@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-mistakes-buyers-make-yt.jpg
-youtube_code: vez7wmDExyg
+youtube_code: CV0w1M_NiwE
 ---
 
 {% include youtube.html %}
