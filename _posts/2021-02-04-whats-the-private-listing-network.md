@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What’s the Private Listing Network?
-date: 2021-02-04 22:12:56
+date: 2021-02-04 22:12:00
 tags:
-  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: Here’s why the Private Listing Network is a fantastic tool for sellers.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kati+Spaniak/Videos/2021/What%E2%80%99s+the+Private+Listing+Network_.mp4
