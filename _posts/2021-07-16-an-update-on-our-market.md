@@ -19,4 +19,4 @@ June was a slow month for showings. We still had things go under contract, but y
 
 I believe the market is going to pick up in September. We usually see an upswing in September and October. As people get more used to being back outside and once school's back in session, I think there's going to be more inventory coming onto the market, especially on the north shore of Chicago. **If you’re thinking about listing, now is the time.**
 
-If you’re thinking about moving, the first thing you need to do is talk to your agent. Don't put any money into fixes or updates without knowing if you're gonna get a return on it. If you have any questions, feel free to reach out to me via phone or email.
+If you’re thinking about moving, the first thing you need to do is talk to your agent. Don't put any money into fixes or updates without knowing if you're going to get a return on it. If you have any questions, feel free to reach out to me via phone or email.
