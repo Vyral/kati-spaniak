@@ -34,10 +34,10 @@ As we approach the end of the year, I wanted to bring you a comprehensive update
 
 10:20—A story that illustrates the dangers of overpricing
 
-11”31—Why having an experienced agent on your side is vital to a successful sale
+11:31—Why having an experienced agent on your side is vital to a successful sale
 
 12:25—My key predictions about the 2022 market
 
 13:17—Final thoughts for sellers and wrapping things up
 
-If you have any questions at all about anything discussed in today’s video, selling your home, or anything else related to real estate, don’t hesitate to reach out via phone or email. I would love to answer any questions you may have and put my expertise to work for you. I’m here to help.
+If you have any questions at all about today’s video, selling your home, or anything else related to real estate, don’t hesitate to reach out via phone or email. I would love to answer any questions you may have and put my expertise to work for you. I’m here to help.
