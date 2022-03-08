@@ -15,6 +15,8 @@ youtube_code: hbQoBdXxj2I
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Today I'll talk about what a market search is and why you should be set up with one.
 
 **A market search is a search for homes in your immediate area that you currently live in.** It shows you which homes are coming on the market and which homes have sold right in a defined area like a subdivision or a school district.&nbsp;
