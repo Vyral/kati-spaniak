@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Market activity in your area
-date: 2021-09-09 21:23:13
+date: 2022-03-16 09:23:00
 tags:
   - Home Seller Tips
 excerpt: I can set you up with market information about your immediate area.
