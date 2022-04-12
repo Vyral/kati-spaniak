@@ -1,0 +1,34 @@
+---
+layout: post
+title: What Buyers Should Know If You Want To Win
+date: 2022-04-12 00:00:00
+tags:
+  - Home Buyer Tips
+excerpt: A couple key considerations for buyers to keep in mind in this market.
+enclosure:
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image: /uploads/how-to-win-yt.jpg
+youtube_code: WjTDSmcEGF4
+---
+{% include youtube.html %}
+
+A homebuyer, what do you need to do in order to purchase a house in today’s hot market? Life as a buyer can be challenging, especially if you’ve been looking at what houses have sold for over the last three months. When I discuss home prices with clients, I’m mainly concerned with two types of values: appraised values and market values.&nbsp;
+
+In today’s environment, **a home’s market value is going to be much higher than its appraised value.** That means there’s a chance that the property may not appraise for the price that you offer on the home. If you’re a buyer using a mortgage and the appraisal comes in for $100,000 less than what you offered for the home, you’ll have to make up the difference somehow. There are three ways to approach this scenario:&nbsp;
+
+**1\. You can get the seller to reduce their price**
+
+**2\. You, the buyer, can make up the difference**
+
+**3\. The seller can relist the home. The second option is usually what happens in our market.**
+
+Something else that buyers need to consider is that **you can’t have a mortgage contingency in your contract if you want to win.** Appraisals won’t come out where you want them to be, so if you don’t have a mortgage contingency, that means you’re buying the house whether or not you can get the mortgage. That constitutes a huge risk for a buyer. That’s why, as a listing agent, I ask buyers for proof of funds that shows they have the cash to cover the gap if the home doesn’t appraise.
+
+{% include pullquote.html %}
+
+The final thing to keep in mind as a buyer is that you need to work with an experienced agent who knows how to write offers and negotiate with other agents. We’re focused on the market 24/7, so we can help you navigate the complexities of today’s environment and help you successfully complete your purchase.
+
+If you have any questions or need assistance buying a home in our market, don’t hesitate to give us a call or send us an email. We’d love to help you.
