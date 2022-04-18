@@ -11,13 +11,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/how-to-win-yt.jpg
-youtube_code: WjTDSmcEGF4
+youtube_code: hi3pPL63wcs
 ---
 {% include youtube.html %}
 
-As a buyer, what do you need to do to purchase a house in today’s hot market? Life as a buyer can be challenging, especially if you’ve seen what houses have sold for over the last three months. When I discuss home prices with clients, I’m mainly concerned with two types of values: appraised values and market values.&nbsp;
+As a buyer, what do you need to do to purchase a house in today’s hot market? Life as a buyer can be challenging, especially if you’ve seen what houses have sold for over the last three months. When I discuss home prices with clients, I’m mainly concerned with two types of values: appraised values and market values.
 
-In today’s environment, **a home’s market value is going to be much higher than its appraised value.** That means there’s a chance that the property may not appraise for the price that you offer on the home. If you’re a buyer using a mortgage and the appraisal comes in for $100,000 less than what you offered for the home, you’ll have to make up the difference somehow. There are three ways to approach this scenario:&nbsp;
+In today’s environment, **a home’s market value is going to be much higher than its appraised value.** That means there’s a chance that the property may not appraise for the price that you offer on the home. If you’re a buyer using a mortgage and the appraisal comes in for $100,000 less than what you offered for the home, you’ll have to make up the difference somehow. There are three ways to approach this scenario:
 
 **1\. You can get the seller to reduce their price.**
 
